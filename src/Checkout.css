@@ -1,0 +1,27 @@
+.checkout {
+  display: flex;
+  padding: 20px;
+  background-color: rgb(234, 237, 237);
+  height: max-content;
+  margin-right: 10px;
+}
+
+.checkout_title {
+  text-align: center;
+  height: 100px;
+  margin-right: 10px;
+  padding: 10px;
+  border-bottom: 1px solid lightgrey;
+  width: 100%;
+}
+
+h2 {
+  align-items: center;
+}
+.checkout_left {
+  width: 60%;
+  align-items: center;
+}
+.checkout_right {
+  width: 40%;
+}
